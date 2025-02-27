@@ -1,4 +1,5 @@
-## Aye yo, welcome to the Git guide!
+## Welcome to git!
 
 - Aye, started from the bottom now we here.
-- I'm adding this from feature-branch
+- This is coming from `dev-felix`
+- I'm adding this from `feature-branch`
